@@ -1,6 +1,6 @@
 [submodule "third_party/caliptra-rtl"]
 	path = third_party/caliptra-rtl
-	url = https://github.com/chipsalliance/caliptra-rtl.git
+	url = https://github.com/faydn23/caliptra-rtl.git
 	branch = main
 [submodule "third_party/i3c-core"]
 	path = third_party/i3c-core
